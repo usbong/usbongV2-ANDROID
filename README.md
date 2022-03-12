@@ -9,7 +9,13 @@ Usbong (Version 2.0; ANDROID): Electronic Book Reader with Human-Computer Intera
 https://developer.android.com/studio;<br/>
 last accessed: 20220308
 
-## 3. Open Source Software License
+## 3. Notes
+https://github.com/usbong/usbong_likha_collection/blob/master/src/usbong/android/utils/UsbongUtils.java;<br/>
+last accessed: 20220312<br/>
+<br/>
+--> <b>initUsbongConfigFile()</b> METHOD
+
+## 4. Open Source Software License
 Copyright 2022 SYSON, MICHAEL B.
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
