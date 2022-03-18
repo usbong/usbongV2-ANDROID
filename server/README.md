@@ -1,5 +1,5 @@
 # UsbongV2-ANDROID (mobile app + server component)
-This component enables the mobile application to auto-upload files, e.g. image files, to the Computer Server.
+This component enables the mobile application to auto-upload files, e.g. image files, to the Computer Server.<br/>
 A Computer Client auto-downloads the files from the Computer Server into the set folder in its local storage.
 
 TO-DO: -update: project repository name
@@ -11,7 +11,7 @@ TO-DO: -update: project repository name
 http://www.usbong.ph
 
 # References (last accessed: 20220318)
-https://github.com/usbong/UsbongStoreApp
+https://github.com/usbong/UsbongStoreApp<br/>
 https://www.dropbox.com/home
 
 # Open Source Software License
@@ -23,8 +23,8 @@ Licensed under the Apache License, Version 2.0 (the "License"); you may not use 
   
 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
 
-@company: USBONG
-@author: SYSON, MICHAEL B.
-@date created: 2017
-@date updated: 20220318
+@company: USBONG<br/>
+@author: SYSON, MICHAEL B.<br/>
+@date created: 2017<br/>
+@date updated: 20220318<br/>
 @website address: http://www.usbong.ph
