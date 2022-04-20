@@ -13,7 +13,7 @@ last accessed: 20220308
 3.1) https://github.com/usbong/usbong_likha_collection/blob/master/src/usbong/android/utils/UsbongUtils.java; last accessed: 20220312<br/>
 --> <b>initUsbongConfigFile()</b> METHOD<br/>
 <br/>
-3.2) https://github.com/usbong/SLHCC/blob/master/SLHCC/Cashier/generatePayslipAndORSlipForTheDay/add-on%20software/software/UsbongHTTPConnect.java; last accessed: 20220312<br/>
+3.2) https://github.com/usbong/SLHCC/blob/master/SLHCC/Cashier/generatePayslipAndORSlipForTheDay/add-on%20software/software/UsbongHTTPConnect.java; last accessed: 20220420<br/>
 --> 3.2.1) <b>processUpload(...)</b> METHOD<br/>
 --> https://github.com/usbong/KMS/blob/master/usbong_kms/server/storeTransactionsListForTheDay.php; last accessed: 20220420<br/>
 <br/>
