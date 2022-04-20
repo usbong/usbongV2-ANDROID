@@ -10,10 +10,12 @@ https://developer.android.com/studio;<br/>
 last accessed: 20220308
 
 ## 3. Notes
-https://github.com/usbong/usbong_likha_collection/blob/master/src/usbong/android/utils/UsbongUtils.java;<br/>
-last accessed: 20220312<br/>
+3.1) https://github.com/usbong/usbong_likha_collection/blob/master/src/usbong/android/utils/UsbongUtils.java; last accessed: 20220312<br/>
+--> <b>initUsbongConfigFile()</b> METHOD<br/>
 <br/>
---> <b>initUsbongConfigFile()</b> METHOD
+3.2) https://github.com/usbong/SLHCC/blob/master/SLHCC/Cashier/generatePayslipAndORSlipForTheDay/add-on%20software/software/UsbongHTTPConnect.java; last accessed: 20220312<br/>
+--> <b>processUpload(...)</b> METHOD<br/>
+--> <b>processDownload(...)</b> METHOD<br/>
 
 ## 4. Open Source Software License
 Copyright 2022 SYSON, MICHAEL B.
