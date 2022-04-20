@@ -14,8 +14,11 @@ last accessed: 20220308
 --> <b>initUsbongConfigFile()</b> METHOD<br/>
 <br/>
 3.2) https://github.com/usbong/SLHCC/blob/master/SLHCC/Cashier/generatePayslipAndORSlipForTheDay/add-on%20software/software/UsbongHTTPConnect.java; last accessed: 20220312<br/>
---> <b>processUpload(...)</b> METHOD<br/>
---> <b>processDownload(...)</b> METHOD<br/>
+--> 3.2.1) <b>processUpload(...)</b> METHOD<br/>
+--> https://github.com/usbong/KMS/blob/master/usbong_kms/server/storeTransactionsListForTheDay.php; last accessed: 20220420<br/>
+<br/>
+--> 3.2.2) <b>processDownload(...)</b> METHOD<br/>
+--> https://github.com/usbong/KMS/blob/master/usbong_kms/server/getTransactionsListForTheDay.php; last accessed: 20220420<br/>
 
 ## 4. Open Source Software License
 Copyright 2022 SYSON, MICHAEL B.
